@@ -23,10 +23,17 @@ Many features enabled in developer preview will require alterations to your app 
 >[!NOTE]
 >Developer preview is enabled on a per-client basis. Uploading an app that uses developer preview features may cause clients that have not enabled developer preview to behave unexpectedly.
 
-To enable the public developer preview, you need to do the following:
+To enable the public developer preview on web/desktop clients, you need to do the following:
 
 1. Turn on the setting for enabling uploading of apps in the admin console of your tenant as described [here](~/get-started/get-started-tenant.md).
 2. Click on your profile (either in the upper right or lower left of the Teams interface) to display the Teams menu. The developer preview option is found in About → Developer preview. If you do not see an entry for developer preview the most likely reason is your organization is not configured for app uploading as described in step 
+
+To enable the public developer preview on mobile app clients, you need to do the following:
+
+1. Turn on the setting for enabling uploading of apps in the admin console of your tenant as described [here](~/get-started/get-started-tenant.md).
+2. On Teams mobile apps developer preview mode is being released from June 2019 app builds.Steps to enable developer preview on mobile:
+a) Download/Upgrade to latest Teams mobile app from play store/app store 
+b) Developer preview option is found in Settings >About > Developer preview. If you do not see an entry for developer preview the most likely reason is your organization is not configured 1 
 
 ## Disable developer preview
 
