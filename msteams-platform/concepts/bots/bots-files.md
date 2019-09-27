@@ -14,6 +14,11 @@ There are two ways to send files to and from a bot:
   * `groupchat`
 * Using the Teams APIs. These only support files in one context:
   * `personal`
+  
+## Send and receive files through bot on Teams mobile app
+> [!NOTE] 
+> Sending and receiving files to bots on mobile devices is not supported.
+
 
 ## Using the Microsoft Graph APIs
 
