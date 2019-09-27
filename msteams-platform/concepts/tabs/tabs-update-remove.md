@@ -30,6 +30,11 @@ You must include the [Microsoft Teams JavaScript client SDK](/javascript/api/ove
 
 ![Screenshot of the removal page for a simple example app, giving the user the option of whether to delete the map when the tab is removed](~/assets/images/tab_removal.png)
 
+## Update/Remove a tab using mobile clients
+
+> [!NOTE]
+> Mobile devices do not support updation/removal of tabs. 
+
 ## Removal page example
 
 The following excerpt shows an example tab-removal page.
